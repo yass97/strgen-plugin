@@ -1,0 +1,8 @@
+[libraries]
+jdom = { group = "org.jdom", name = "jdom2", version = "2.0.6" }
+agp = { group = "com.android.tools.build", name = "gradle", version = "8.9.1" }
+kotlin-test-junit = { group = "org.jetbrains.kotlin", name = "kotlin-test-junit5" }
+junit-platform = { group = "org.junit.platform", name = "junit-platform-launcher" }
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "2.1.0" }
